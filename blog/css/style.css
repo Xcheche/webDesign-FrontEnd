@@ -1,0 +1,30 @@
+/* css reset */
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+header{
+  background-color: #333;
+  color: white;
+  padding: 30px 0px;
+  text-align: center;
+}
+
+figure{
+  margin:0;
+  padding:40px  0;
+  text-align: center;
+}
+
+main{
+  max-width: 573px;
+  margin: 0 auto;
+}
+
+
+footer{
+    text-align: center;
+}
